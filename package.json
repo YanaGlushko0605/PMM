@@ -18,6 +18,8 @@
   "homepage": "https://github.com/YanaGlushko0605/PMM#readme",
   "dependencies": {
     "css-loader": "^3.4.2",
+    "gulp": "^4.0.2",
+    "gulp-twig": "^1.2.0",
     "mini-css-extract-plugin": "^0.9.0",
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
